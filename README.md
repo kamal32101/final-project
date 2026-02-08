@@ -1,5 +1,5 @@
 # **Education Performance Dataset Analysis**
-## An education analytics case study using Excel, SQL, Python and Power BI
+### An education analytics case study using Excel, SQL, Python and Power BI
 
 ## Case Summary
 
