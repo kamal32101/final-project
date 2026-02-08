@@ -69,3 +69,28 @@ The dataset used in this project will be collected from governomental sites, uni
 - Analysis results & insights
 - Recommendations for educational improvement
 
+
+## Project Deliverables & Goals:
+
+**Deliverables:**
+- Clean dataset
+- SQL queries
+- Power BI dashboard
+- Educational improvements report
+
+**Goals:**
+- Understanding students' needs in education
+- Tailoring curriculums to include relevant subjects in different fields of study
+- Improving education in Egypt
+
+## Team Members
+
+| Name | Role | LinkedIn |
+|:-----|:------:|------:|
+| Engy Basem | Data Modeler (Team Leader) | [LinkedIn Profile](www.linkedin.com/in/engybasem) |
+| Kamal Mohamed | Visualization Wizard | [LinkedIn Profile](https://www.linkedin.com/in/kamal-mohamed-9bb507250?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Nawar Khaled | Data Curator | [LinkedIn Profile](https://www.linkedin.com/in/nawar-khaled-a52265221?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Eyad Elsherbiny | Data Analyst | [LinkedIn Profile](#) |
+
+
+*thanks for reading this repo :)*
