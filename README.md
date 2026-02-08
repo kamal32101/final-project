@@ -51,7 +51,7 @@ The dataset used in this project will be collected from governomental sites, uni
 - Study time & grades correlation
 - Attendance impact on student performance
 
-### Week #: Prediction & Forecasting
+### Week #3: Prediction & Forecasting
 - Students passing or failing the subject probability prediction
 - Students' final grades based on attendance & study hours prediction
 - Pass/fail classification model
@@ -62,8 +62,10 @@ The dataset used in this project will be collected from governomental sites, uni
 - Student perofrmance KPIs
 - Attendance impact on grades
 - Subject difficulty comparison
+
 **Final report & presentation:**
 - Problem statement
 - Data preparation process
 - Analysis results & insights
 - Recommendations for educational improvement
+
