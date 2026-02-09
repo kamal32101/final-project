@@ -90,7 +90,7 @@ The dataset used in this project will be collected from governomental sites, uni
 | Engy Basem | Data Modeler (Team Leader) | [LinkedIn Profile](https://www.linkedin.com/in/engybasem) |
 | Kamal Mohamed | Visualization Wizard | [LinkedIn Profile](https://www.linkedin.com/in/kamal-mohamed-9bb507250?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 | Nawar Khaled | Data Curator | [LinkedIn Profile](https://www.linkedin.com/in/nawar-khaled-a52265221?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
-| Eyad Elsherbiny | Data Analyst | [LinkedIn Profile](www.linkedin.com/in/eyad-adel-b040642a4) |
+| Eyad Elsherbiny | Data Analyst | [LinkedIn Profile](https://www.linkedin.com/in/eyad-adel-b040642a4/) |
 
 
 *thanks for reading this repo :)*
