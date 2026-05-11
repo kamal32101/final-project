@@ -152,10 +152,7 @@ education-performance-analytics/
 │   └── data_cleaning_analysis.ipynb
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── data_loading.sql
-│   ├── kpi_queries.sql
-│   └── analytical_queries.sql
+│   └── project.sql
 │
 ├── powerbi/
 │   ├── dashboard.pbix
