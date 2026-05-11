@@ -29,8 +29,7 @@ The project covers the complete analytics workflow starting from raw data cleani
 
 * Excel
 * Power Query
-* Python
-* Pandas
+* Python (pandas)
 
 ### Database & Querying
 
