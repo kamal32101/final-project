@@ -149,7 +149,7 @@ education-performance-analytics/
 │   ├── raw_data/
 │   └── cleaned_data/
 │
-├── notebooks/
+├── python/
 │   └── data_cleaning_analysis.ipynb
 │
 ├── sql/
@@ -168,7 +168,6 @@ education-performance-analytics/
 │   └── workflow.png
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
