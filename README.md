@@ -1,6 +1,6 @@
+<a id="readme-top"></a>
 # 🎓 Education Performance Analytics
 
-<a id="readme-top"></a>
 **An End-to-End Data Analytics & BI Project Uncovering the Hidden Drivers of Student Success**
 
 
@@ -29,6 +29,7 @@
 
 ---
 
+<a id="project-mission"></a>
 ## 🎯 Project Mission
 
 The primary goal of this project is to decode the **key factors** that determine student academic success. By analyzing comprehensive data from **over 1,000 students** across core subjects (Math and Portuguese), we aim to move beyond traditional grading.
@@ -39,6 +40,7 @@ Ultimately, this project provides a **data-driven overview** of student challeng
 
 ---
 
+<a id="about-the-project"></a>
 ## 📖 About the Project
 
 Student performance is rarely shaped by classroom activities alone; it is deeply intertwined with their socio-economic background, lifestyle choices, and personal ambitions. This project meticulously tracks these dimensions, categorizing them into three core analytical pillars: **Academics, Family, and Lifestyle**.
@@ -47,6 +49,7 @@ This repository documents a complete data analytics lifecycle. We transformed ra
 
 ---
 
+<a id="core-objectives"></a>
 ## 🚀 Core Objectives
 
 - **Performance Drivers:** Identify the primary factors influencing pass rates and final grades across different subjects and schools.
@@ -56,6 +59,7 @@ This repository documents a complete data analytics lifecycle. We transformed ra
 
 ---
 
+<a id="technologies--tools-stack"></a>
 ## 🛠️ Technologies & Tools Stack
 
 - **Data Integration & Cleaning:** Python (Pandas) , Microsoft Excel , Power Query
@@ -65,6 +69,7 @@ This repository documents a complete data analytics lifecycle. We transformed ra
 
 ---
 
+<a id="dataset-overview"></a>
 ## 📋 Dataset Overview
 
 Before any cleaning or transformation, the project started with the raw dataset ([raw_data.xlsx](data/raw_data.xlsx)) containing comprehensive records of student attributes and performance metrics. 
@@ -75,6 +80,7 @@ Before any cleaning or transformation, the project started with the raw dataset 
 
 ---
 
+<a id="key-data-dimensions--attributes"></a>
 ### 🔍 Key Data Dimensions & Attributes
 
 The raw data is richly diversified and covers four main categories of features:
@@ -87,6 +93,7 @@ The raw data is richly diversified and covers four main categories of features:
 
 ---
 
+<a id="data-preparation--cleaning"></a>
 ## 🧹 Data Preparation & Cleaning
 
 To ensure data integrity and optimize it for downstream modeling and BI tools, the raw data underwent a rigorous cleaning and transformation pipeline using **Python (Pandas)** (`data_cleaning_analysis.ipynb`), resulting in the final processed dataset ([cleaned_data.xlsx](data/cleaned_data.xlsx)).
@@ -104,6 +111,7 @@ To ensure data integrity and optimize it for downstream modeling and BI tools, t
 
 ---
 
+<a id="data-modeling--sql-architecture"></a>
 ## 🗄️ Data Modeling & SQL Architecture
 
 To build a scalable foundation for Business Intelligence reporting, the cleaned dataset was imported into a relational database ([project.sql](sql/project.sql)) and transformed from a flat file into a robust relational model.
@@ -127,6 +135,7 @@ Beyond structural modeling, analytical SQL queries were executed to uncover init
 
 ---
 
+<a id="data-visualization--bi-power-bi"></a>
 ## 📊 Data Visualization & BI (Power BI)
 
 The final stage of the project transforms the validated database into actionable insights through interactive Power BI dashboards.
@@ -185,6 +194,7 @@ Focuses on students' lifestyle choices, visualizing how free time, going out wit
 
 ---
 
+<a id="key-insights--findings"></a>
 ## 💡 Key Insights & Findings
 
 Based on the interactive data exploration and SQL analysis, several critical patterns regarding student performance emerged. Here are the key takeaways across different dimensions:
@@ -226,6 +236,7 @@ Based on the interactive data exploration and SQL analysis, several critical pat
 
 ---
 
+<a id="strategic-conclusion--actionable-recommendations"></a>
 ## 🎯 Strategic Conclusion & Actionable Recommendations
 
 The overarching data narrative dictates that while a student's socioeconomic and family background establishes a foundational baseline, **personal behavioral factors remain the strongest and most actionable drivers of academic success.**
@@ -240,6 +251,7 @@ To practically improve student outcomes, educational institutions should focus o
 
 ---
 
+<a id="repository-structure"></a>
 ## 📂 Repository Structure
 
 
@@ -280,6 +292,7 @@ education-performance-analytics/
 
 ---
 
+<a id="team-members"></a>
 ## 👥 Team Members
 
 | Name              | Role                        | Contact                                                                                                                                                                       |
