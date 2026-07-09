@@ -1,5 +1,4 @@
-<a id="readme-top"></a>
-# 🎓 Education Performance Analytics
+# 🎓 Education Performance Analytics <a id="readme-top"></a>
 
 **An End-to-End Data Analytics & BI Project Uncovering the Hidden Drivers of Student Success**
 
