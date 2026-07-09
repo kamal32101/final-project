@@ -133,13 +133,16 @@ The final stage of the project transforms the validated database into actionable
 
 > 🚀 **[Explore the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2VkODA3MGUtMDNmNy00ZDNlLTliYWYtNjZkMDZjYTQ5YTliIiwidCI6ImUzNmQ5N2M4LTVkMjgtNDM4Yi05YjEyLTQ5NzUwOGY2MGIyZiJ9)**
 
+
 ### 🗂️ Power BI Data Modeling (Schema)
 
 Before building the visuals, a robust **Semantic Model** was constructed. The tables were imported from SQL and linked using strict **1-to-1 relationships** centered around the primary `students` table. Additionally, a dedicated **`All Measures`** table was created to centralize all **DAX (Data Analysis Expressions)** calculations, ensuring best practices for model performance and maintenance.
 
+
 <p align="center">
   <img src="images/data_model.png" alt="Power BI Data Model">
 </p>
+
 
 ### 🛠️ Advanced Interactive Features
 
@@ -148,27 +151,35 @@ To fully reflect the depth of the SQL analysis without cluttering the interface,
 - **Context-Aware Slicers:** Instead of a generic filter panel, each dashboard page features a tailored set of slicers highly relevant to its specific theme, allowing for focused and logical drill-downs.
 - **Visual-Specific Tooltips:** Every chart is equipped with customized tooltips designed specifically for its context. This reveals underlying secondary metrics on hover, keeping the main visuals clean while preserving analytical depth.
 
+
 ### 📌 1. Overview Dashboard (Executive Summary)
 
 Displays a high-level summary of the dataset, tracking total students, overall pass/fail rates, and average grades across subjects.
 
+
 ![Overview Dashboard](powerbi/dashboard_screenshots/01_Overview.png)
+
 
 ### 🎓 2. Academics Dashboard (School Context)
 
 Deep dives into academic-specific metrics, analyzing the impact of study time, previous failures, and school absences on final outcomes.
 
+
 ![Academics Dashboard](powerbi/dashboard_screenshots/02_Academics.png)
+
 
 ### 👨‍👩‍👧‍👦 3. Family Dashboard (Background Influence)
 
 Examines how family background, including parental education, occupations, and family dynamics, influences students' academic performance.
 
+
 ![Family Dashboard](powerbi/dashboard_screenshots/03_Family.png)
+
 
 ### 🏃‍♂️ 4. Lifestyle Dashboard (Behavioral Impact)
 
 Focuses on students' lifestyle choices, visualizing how free time, going out with friends, and health status affect academic performance.
+
 
 ![Lifestyle Dashboard](powerbi/dashboard_screenshots/04_Lifestyle.png)
 
